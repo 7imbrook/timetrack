@@ -4308,7 +4308,7 @@ form.custom .custom.disabled {
   height: 45px;
   line-height: 45px;
   position: relative;
-  background: #111111;
+  background: #4883da;
   margin-bottom: 1.875em;
 }
 /* line 74, ../../../.rvm/gems/ruby-1.9.3-p374/gems/zurb-foundation-4.1.6/scss/foundation/components/_top-bar.scss */
@@ -4410,7 +4410,7 @@ form.custom .custom.disabled {
 }
 /* line 167, ../../../.rvm/gems/ruby-1.9.3-p374/gems/zurb-foundation-4.1.6/scss/foundation/components/_top-bar.scss */
 .top-bar.expanded .title-area {
-  background: #111111;
+  background: #4883da;
 }
 /* line 170, ../../../.rvm/gems/ruby-1.9.3-p374/gems/zurb-foundation-4.1.6/scss/foundation/components/_top-bar.scss */
 .top-bar.expanded .toggle-topbar a {

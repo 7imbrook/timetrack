@@ -25,7 +25,7 @@ $em-base: 16px !default;
 
 // $default-float: left;
 
-// $body-bg: #fff;
+$body-bg: #f2f6fc;
 // $body-font-color: #222;
 // $body-font-family: "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
 // $body-font-weight: normal;
@@ -41,7 +41,7 @@ $em-base: 16px !default;
 
 // Colors
 
-// $primary-color: #2ba6cb;
+$primary-color: #5088dc;
 // $secondary-color: #e9e9e9;
 // $alert-color: #c60f13;
 // $success-color: #5da423;
@@ -751,7 +751,7 @@ $em-base: 16px !default;
 
 // Left/right nav styles
 
-// $orbit-nav-bg-old: rgb(0,0,0);
+// $orbit-nav-bg-old: rgb(3,56,2);
 // $orbit-nav-bg: rgba(0,0,0,0.6);
 
 // Timer styles
@@ -1157,7 +1157,7 @@ $em-base: 16px !default;
 
 // Background color for the top bar
 
-// $topbar-bg: #111;
+$topbar-bg: #1d4d94;
 
 // Height and margin
 
@@ -1175,19 +1175,19 @@ $em-base: 16px !default;
 
 // Link colors and styles for top-level nav
 
-// $topbar-link-color: #fff;
-// $topbar-link-weight: bold;
-// $topbar-link-font-size: emCalc(13px);
-// $topbar-link-hover-lightness: -30% !default; // Darken by 30%
+$topbar-link-color: #fff;
+$topbar-link-weight: bold;
+$topbar-link-font-size: emCalc(13px);
+$topbar-link-hover-lightness: -30% !default; // Darken by 30%
 
 // Top bar dropdown elements
 
-// $topbar-dropdown-bg: #333;
-// $topbar-dropdown-link-color: #fff;
-// $topbar-dropdown-toggle-size: 5px;
-// $topbar-dropdown-toggle-color: #fff;
-// $topbar-dropdown-toggle-alpha: 0.5;
-// $dropdown-label-color: #555;
+$topbar-dropdown-bg: #333;
+$topbar-dropdown-link-color: #fff;
+$topbar-dropdown-toggle-size: 5px;
+$topbar-dropdown-toggle-color: #fff;
+$topbar-dropdown-toggle-alpha: 0.5;
+$dropdown-label-color: #fff;
 
 // Top menu icon styles
 
